@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Reliance Travels Bahrain",
+  "description": "Premier travel and corporate services provider in Bahrain with AI-powered itinerary planning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
